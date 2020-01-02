@@ -1,11 +1,16 @@
 _repo: A-Letter-to-Lord-Fielding-suggested-by-the-late-proceedings-at-the-New-Church-at-Pantasa_61023
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 61023-h/images/cover.jpg
 creator:
   author:
     agent_name: Stone, George Luther
     gutenberg_agent_id: '51223'
     url: http://www.gutenberg.org/2009/agents/51223
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/61023#A-Letter-to-Lord-Fielding-suggested-by-the-late-proceedings-at-the-New-Church-at-Pantasa
 gutenberg_issued: '2019-12-26'
 gutenberg_type: Text
 identifiers:
